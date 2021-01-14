@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigator>
+  <title>Navigator</title>
+  <show_images>true</show_images>
+  <show_numbers>true</show_numbers>
+  <allow_exit>false</allow_exit>
+  <menu>
+    <item>
+      <name>ЦРСГП - сканирование</name>
+      <command>"\Application\askona\Askona_MainWH_Client.exe"</command>
+    </item>
+	<item>
+	  <name>WiFi</name>
+	  <command>\Windows\wclaunch.exe</command>
+	</item>
+	<item>
+	  <name>Configure USB</name>
+	  <command>\Windows\USBFunctionSwitch.exe</command>
+	</item>
+  </menu>
+</navigator>
