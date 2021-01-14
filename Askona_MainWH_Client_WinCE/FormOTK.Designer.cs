@@ -122,7 +122,7 @@
             this.BC2.Config.ReaderParameters.ReaderSpecific.LaserSpecific.RasterHeight = -1;
             this.BC2.Config.ReaderParameters.ReaderSpecific.LaserSpecific.RasterMode = Symbol.Barcode2.Design.RASTER_MODE.RASTER_MODE_DEFAULT;
             this.BC2.Config.ReaderParameters.ReaderSpecific.LaserSpecific.ScanLedLogicLevel = Symbol.Barcode2.Design.DisabledEnabled.Default;
-            this.BC2.Config.ScanDataSize = ((uint)(55u));
+            this.BC2.Config.ScanDataSize = ((uint)(127u));
             this.BC2.Config.ScanParameters.BeepFrequency = 200;
             this.BC2.Config.ScanParameters.BeepTime = 100;
             this.BC2.Config.ScanParameters.CodeIdType = Symbol.Barcode2.Design.CodeIdTypes.Default;
