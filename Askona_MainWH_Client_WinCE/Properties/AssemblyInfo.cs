@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Askona")]
 [assembly: AssemblyProduct("Askona MainWH Client WinCE")]
-[assembly: AssemblyCopyright("Copyright © askona 2021")]
+[assembly: AssemblyCopyright("Copyright © Askona 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,7 +29,7 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.35.0")]
+[assembly: AssemblyVersion("1.36.0")]
 
 // Below attribute is to suppress FxCop warning "CA2232 : Microsoft.Usage : Add STAThreadAttribute to assembly"
 // as Device app does not support STA thread.

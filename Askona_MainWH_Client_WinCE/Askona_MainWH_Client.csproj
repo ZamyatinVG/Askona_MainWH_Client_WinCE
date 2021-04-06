@@ -19,6 +19,7 @@
     <FormFactorID>
     </FormFactorID>
     <ApplicationIcon>icon_mini.ico</ApplicationIcon>
+    <StartupObject>Askona_MainWH_Client.Askona_MainWH_Client</StartupObject>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
